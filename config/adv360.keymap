@@ -27,10 +27,10 @@
             display-name = "Base";
             bindings = <
 &kp EQUAL  &kp N1     &kp N2      &ht_1s LG(LS(NUMBER_3)) NUMBER_3  &ht_1s LG(LS(NUMBER_4)) NUMBER_4  &ht_1s LG(LS(NUMBER_5)) NUMBER_5  &mo 1                                                                                        &mo 3                      &kp N6  &kp N7    &kp N8        &kp N9    &kp N0    &kp MINUS
-&kp TAB    &kp Q      &kp W       &kp E                             &kp R                             &kp T                             &mo 4                                                                                        &tog 4                     &kp Y   &kp U     &kp I         &kp O     &kp P     &kp BSLH
+&kp TAB    &kp Q      &kp W       &kp E                             &kp R                             &kp T                             &none                                                                                        &none                      &kp Y   &kp U     &kp I         &kp O     &kp P     &kp BSLH
 &kp ESC    &kp A      &kp S       &kp D                             &kp F                             &kp G                             &kp LS(LA(LC(LEFT_GUI)))  &kp LCTRL  &kp LALT              &kp RIGHT_ALT      &kp RCTRL      &kp RS(RA(RC(RIGHT_GUI)))  &kp H   &kp J     &kp K         &kp L     &kp SEMI  &kp SQT
 &kp LSHFT  &kp Z      &kp X       &kp C                             &kp V                             &kp B                                                                  &kp LA(LEFT_GUI)      &kp RA(RIGHT_GUI)                                            &kp N   &kp M     &kp COMMA     &kp DOT   &kp FSLH  &kp RSHFT
-&mo 2      &kp GRAVE  &caps_word  &kp LEFT                          &kp RIGHT                                                           &kp SPACE                 &kp TAB    &kp LEFT_GUI          &kp RIGHT_GUI      &kp BACKSPACE  &kp RETURN                         &kp DOWN  &kp UP_ARROW  &kp LBKT  &kp RBKT  &kp LC(LG(SPACE))
+&mo 2      &kp GRAVE  &caps_word  &kp LEFT                          &kp RIGHT                                                           &lt 4 SPACE               &kp TAB    &kp LEFT_GUI          &kp RIGHT_GUI      &kp BACKSPACE  &lt 4 ENTER                        &kp DOWN  &kp UP_ARROW  &kp LBKT  &kp RBKT  &kp LC(LG(SPACE))
             >;
 
             label = "base";
