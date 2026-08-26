@@ -73,11 +73,11 @@
 
         nav {
             bindings = <
-&none   &none  &none  &none  &none  &none  &none                                     &none   &none     &none     &none   &none      &none  &none
-&none   &none  &none  &none  &none  &none  &trans                                    &tog 4  &none     &none     &none   &none      &none  &none
-&none   &none  &none  &none  &none  &none  &none   &trans  &trans      &none  &none  &none   &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &none  &none
-&trans  &none  &none  &none  &none  &none                  &none       &none                 &none     &none     &none   &none      &none  &none
-&none   &none  &none  &none  &none         &none   &none   &trans      &none  &none  &none             &none     &none   &none      &none  &none
+&none   &none  &none  &none  &none  &none  &none                                     &none  &none     &none     &none   &none      &none  &none
+&none   &none  &none  &none  &none  &none  &trans                                    &none  &none     &none     &none   &none      &none  &none
+&none   &none  &none  &none  &none  &none  &none   &trans  &trans      &none  &none  &none  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &none  &none
+&trans  &none  &none  &none  &none  &none                  &none       &none                &none     &none     &none   &none      &none  &none
+&none   &none  &none  &none  &none         &none   &none   &trans      &none  &none  &none            &none     &none   &none      &none  &none
             >;
 
             label = "nav";
